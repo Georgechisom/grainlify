@@ -14,7 +14,6 @@ import (
 	"github.com/jagadeesh/grainlify/backend/internal/bus/natsbus"
 	"github.com/jagadeesh/grainlify/backend/internal/config"
 	"github.com/jagadeesh/grainlify/backend/internal/db"
-	"github.com/jagadeesh/grainlify/backend/internal/handlers"
 	"github.com/jagadeesh/grainlify/backend/internal/migrate"
 	"github.com/jagadeesh/grainlify/backend/internal/syncjobs"
 )
